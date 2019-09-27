@@ -10,13 +10,13 @@
 2.  Data Visualizations
     * [Latitude](https://douglasdrake.github.io/weather/).  An HTML dashboard of meteorological data.  
     The [github repo](https://github.com/douglasdrake/weather) for the dashboard and 
-    the [github repo](https://github.com/douglasdrake/WeatherData)
+    the [github repo](https://github.com/douglasdrake/WeatherData).
     for the methods used to collect the data.
     * [Geological Data](https://douglasdrake.github.io/geojson/).  
     A Leaflet map of earthquake activity.  The [github repo](https://github.com/douglasdrake/geojson) for this data.
 3.  ETL
-    *
-    *
+    * [Web scraping and ETL](https://dkloepper.github.io/ncs1ml/index.html) As part of a group project, [my role](https://github.com/Justinmatt21/NCS-1MLProject/blob/master/dougstuff/Data%20Preparation.pptx) involved webscraping data, data cleaning, and fitting a predictive model
+    with the results.  The [github repo](https://github.com/Justinmatt21/NCS-1MLProject/tree/master/dougstuff).
 
 # Skills
 1.  Programming Languages
