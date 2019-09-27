@@ -22,7 +22,7 @@
 1.  Programming Languages
     * Python, R, VBA, JavaScript, C, Lisp
 2.  Tools for Visualization
-    * matplotlib, seaborn, R base graphics, lattice, ggplot2, Plot.ly, 
+    * matplotlib, seaborn, R base graphics, lattice, ggplot2, Plot.ly, D3, Leaflet.
 3.  Database
     * SQL, MongoDB
 4.  Tools for Data Analysis
@@ -30,6 +30,8 @@
     [SciPy](https://pandas.pydata.org/), [StatsModels](http://www.statsmodels.org/stable/index.html) 
 5.  Tools for Machine Learning and Predictive Model Building
     * [scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [caret](http://topepo.github.io/caret/index.html)
+6.  Web design
+    * HTML, CSS, JavaScript
 
 # Education
 I recently completed the Data Visualization and Analytics Boot Camp at the University of Minnesota.
