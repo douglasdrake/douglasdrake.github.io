@@ -27,7 +27,7 @@
     * SQL, MongoDB
 4.  Tools for Data Analysis
     * [R](https://www.r-project.org/), [Pandas](https://pandas.pydata.org/), 
-    [SciPy](https://pandas.pydata.org/), [StatsModels](http://www.statsmodels.org/stable/index.html) 
+    [SciPy](https://www.scipy.org/), [StatsModels](http://www.statsmodels.org/stable/index.html) 
 5.  Tools for Machine Learning and Predictive Model Building
     * [scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [caret](http://topepo.github.io/caret/index.html)
 6.  Web design
