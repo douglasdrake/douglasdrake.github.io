@@ -8,6 +8,10 @@
     The [github repo](https://github.com/douglasdrake/GHCN-stations) for this project.
     *  [Biodiversity Dashboard](https://bellybuttonbiodiversitydrake.herokuapp.com/)  Visualization of bacterial biodiversity of belly buttons.  The [github repo](https://github.com/douglasdrake/myheroku) for this project.
 2.  Data Visualizations
+    * [Inventory dashboard](https://douglasdrake.github.io/inventory-dashboard/).  An HTML dashboard
+    of station data available in the GHCN Archive.
+    The [github repo](https://github.com/douglasdrake/inventory-dashboard) for the dashboard 
+    include Jupyter notebooks that download the data, clean and merge data frames, and produce the plots.
     * [Latitude](https://douglasdrake.github.io/weather/).  An HTML dashboard of meteorological data.  
     The [github repo](https://github.com/douglasdrake/weather) for the dashboard and 
     the [github repo](https://github.com/douglasdrake/WeatherData).
