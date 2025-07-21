@@ -4,9 +4,9 @@
 
 # Projects
 1.  Heroku Apps
-    *  [GHCN Weather Stations](https://ghcn-leaflet.herokuapp.com/)  Query a database of weather stations in the GHCN archive based on location.  
+    *  [GHCN Weather Stations](https://ghcn-mapping-stations-39b8729885c5.herokuapp.com/)  Query a database of weather stations in the GHCN archive based on location.  
     The [github repo](https://github.com/douglasdrake/GHCN-stations) for this project.
-    *  [Biodiversity Dashboard](https://bellybuttonbiodiversitydrake.herokuapp.com/)  Visualization of bacterial biodiversity of belly buttons.  The [github repo](https://github.com/douglasdrake/myheroku) for this project.
+    *  [Biodiversity Dashboard](https://bb-diversity-app-4e1679014ed8.herokuapp.com/)  Visualization of bacterial biodiversity of belly buttons.  The [github repo](https://github.com/douglasdrake/myheroku) for this project.
 2.  Data Visualizations
     * [Inventory dashboard](https://douglasdrake.github.io/inventory-dashboard/).  An HTML dashboard
     of station data available in the GHCN Archive.
@@ -28,7 +28,7 @@
 2.  Tools for Visualization
     * matplotlib, seaborn, R base graphics, lattice, ggplot2, Plot.ly, D3, Leaflet.
 3.  Database
-    * SQL, MongoDB
+    * SQL, DuckDB, PostgreSQL, MongoDB
 4.  Tools for Data Analysis
     * [R](https://www.r-project.org/), [Pandas](https://pandas.pydata.org/), 
     [SciPy](https://www.scipy.org/), [StatsModels](http://www.statsmodels.org/stable/index.html) 
@@ -38,6 +38,6 @@
     * HTML, CSS, JavaScript
 
 # Education
-I recently completed the Data Visualization and Analytics Boot Camp at the University of Minnesota.
+I completed the Data Visualization and Analytics Boot Camp at the University of Minnesota.
 I have a MS in Statistics from the University of Minnesota and a BS in Mathematics from the Univerity of Nebraska-Lincon.
 
